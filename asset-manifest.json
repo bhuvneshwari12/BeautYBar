@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BeautyBar/static/css/main.684fe8a2.css",
+    "main.js": "/BeautyBar/static/js/main.021633b7.js",
+    "static/media/girliconpng1.png": "/BeautyBar/static/media/girliconpng1.0765784d2d0ae253b0e1.png",
+    "static/media/girluser.png": "/BeautyBar/static/media/girluser.0030a393e974cb97f8b4.png",
+    "index.html": "/BeautyBar/index.html",
+    "main.684fe8a2.css.map": "/BeautyBar/static/css/main.684fe8a2.css.map",
+    "main.021633b7.js.map": "/BeautyBar/static/js/main.021633b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.684fe8a2.css",
+    "static/js/main.021633b7.js"
+  ]
+}
